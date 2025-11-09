@@ -37,4 +37,4 @@ jobs:
         EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
         DESTINATARIOS: ${{ secrets.DESTINATARIOS }}
       run: |
-        python daily_newsletter.py
+        python main.py
