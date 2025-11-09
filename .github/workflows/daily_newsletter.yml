@@ -1,0 +1,40 @@
+name: Daily Newsletter
+
+on:
+  schedule:
+    # Executa todos os dias às 10:00 AM (UTC)
+    # Você pode ajustar o horário conforme sua necessidade.
+    # Por exemplo, para 10:00 AM no fuso horário de Brasília (UTC-3),
+    # você pode tentar 13:00 (UTC) se o GitHub Actions não ajustar automaticamente.
+    # Vou usar 10:00 UTC como padrão.
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11' # Use a versão de Python que você está usando
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run Newsletter Script
+      env:
+        # Variáveis de ambiente secretas que você deve configurar no seu repositório GitHub
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+        EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+        EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        DESTINATARIOS: ${{ secrets.DESTINATARIOS }}
+      run: |
+        python main.py
