@@ -24,60 +24,96 @@ Aqui estão as novidades, tendências e oportunidades que estão moldando o futu
 
 ═══════════════════════════════════════════
 🧠  TENDÊNCIAS E AVANÇOS EM INTELIGÊNCIA ARTIFICIAL
+
 (Resumo 150–300 palavras)
 ═══════════════════════════════════════════
 
 💡 **Resumo:**  
+
 [Principais novidades em modelos de IA, pesquisas, lançamentos e impacto regulatório.]
 
 📢 **Principais Notícias:**  
-• [Manchete curta] - Resumo (até 3 linhas) - Fonte: [nome] - <URL COMPLETA>  
-• [Manchete curta] - Resumo (até 3 linhas) - Fonte: [nome] - <URL COMPLETA>  
-• [Manchete curta] - Resumo (até 3 linhas) - Fonte: [nome] - <URL COMPLETA>  
+
+• [Manchete curta] - Resumo (até 3 linhas) 
+- Fonte: [nome] - <URL COMPLETA>  
+
+• [Manchete curta] - Resumo (até 3 linhas) 
+- Fonte: [nome] - <URL COMPLETA>  
+
+• [Manchete curta] - Resumo (até 3 linhas) 
+- Fonte: [nome] - <URL COMPLETA>  
 
 ═══════════════════════════════════════════
 🏦  IA NOS NEGÓCIOS E MERCADO CORPORATIVO
+
 (foco em bancos e finanças | 150–300 palavras)
 ═══════════════════════════════════════════
 
 💡 **Resumo:**  
+
 [Como empresas aplicam IA em marketing, finanças, RH, operações bancárias e atendimento; cases e ROI.]
 
 📊 **Casos e Implementações:**  
-• [Título do case] - Resumo (até 3 linhas) - Fonte: [nome] - <URL COMPLETA>  
-• [Título do case] - Resumo (até 3 linhas) - Fonte: [nome] - <URL COMPLETA>  
-• [Título do case] - Resumo (até 3 linhas) - Fonte: [nome] - <URL COMPLETA>  
-• [Título do case] - Resumo (até 3 linhas) - Fonte: [nome] - <URL COMPLETA>  
+
+• [Título do case] - Resumo (até 3 linhas) 
+- Fonte: [nome] - <URL COMPLETA>  
+
+• [Título do case] - Resumo (até 3 linhas) 
+- Fonte: [nome] - <URL COMPLETA>  
+
+• [Título do case] - Resumo (até 3 linhas) 
+- Fonte: [nome] - <URL COMPLETA>  
+
+• [Título do case] - Resumo (até 3 linhas) 
+- Fonte: [nome] - <URL COMPLETA>  
 
 ═══════════════════════════════════════════
+
 🎓  CURSOS, FERRAMENTAS E RECURSOS DE APRENDIZADO
+
 (Resumo 150–300 palavras)
 ═══════════════════════════════════════════
 
 💡 **Resumo:**  
+
 [Principais cursos, certificações, webinars, ferramentas e plataformas de IA e automação.]
 
 🧭 **Destaques da Semana:**  
-• [Curso/Ferramenta] - Breve descrição (até 3 linhas) - Fonte: [nome] - <URL COMPLETA>  
-• [Curso/Ferramenta] - Breve descrição (até 3 linhas) - Fonte: [nome] - <URL COMPLETA>  
-• [Curso/Ferramenta] - Breve descrição (até 3 linhas) - Fonte: [nome] - <URL COMPLETA>  
-• [Curso/Ferramenta] - Breve descrição (até 3 linhas) - Fonte: [nome] - <URL COMPLETA>  
+• [Curso/Ferramenta] - Breve descrição (até 3 linhas) 
+- Fonte: [nome] - <URL COMPLETA>  
+
+• [Curso/Ferramenta] - Breve descrição (até 3 linhas) 
+- Fonte: [nome] - <URL COMPLETA>  
+
+• [Curso/Ferramenta] - Breve descrição (até 3 linhas) 
+- Fonte: [nome] - <URL COMPLETA>  
+
+• [Curso/Ferramenta] - Breve descrição (até 3 linhas) 
+- Fonte: [nome] - <URL COMPLETA>  
 
 ═══════════════════════════════════════════
 📈  MERCADO DE TRABALHO E OPORTUNIDADES
+
 (Resumo 150–300 palavras)
 ═══════════════════════════════════════════
 
 💡 **Resumo:**  
+
 [Tendências em vagas, salários, novas funções com IA e perfis mais buscados.]
 
 📰 **Notícias e Insights:**  
-• [Título] - Resumo (até 3 linhas) - Fonte: [nome] - <URL COMPLETA>  
-• [Título] - Resumo (até 3 linhas) - Fonte: [nome] - <URL COMPLETA>  
-• [Título] - Resumo (até 3 linhas) - Fonte: [nome] - <URL COMPLETA>  
+• [Título] - Resumo (até 3 linhas) 
+- Fonte: [nome] - <URL COMPLETA>  
+
+• [Título] - Resumo (até 3 linhas) 
+- Fonte: [nome] - <URL COMPLETA>  
+
+• [Título] - Resumo (até 3 linhas) 
+- Fonte: [nome] - <URL COMPLETA>  
 
 ═══════════════════════════════════════════
 🎯  OPORTUNIDADES E INSIGHTS PRÁTICOS
+
 (2–3 recomendações acionáveis; 1 linha de riscos)
 ═══════════════════════════════════════════
 
@@ -87,16 +123,26 @@ Aqui estão as novidades, tendências e oportunidades que estão moldando o futu
 
 ═══════════════════════════════════════════
 📊  DADOS E INDICADORES DO SETOR
+
 (use bullets curtos; se dado ausente escreva "Dado não disponível")
 ═══════════════════════════════════════════
 
-• **Investimentos globais em IA (últimos 30 dias):** US$ X,XX bi — Fonte: [nome] - <URL COMPLETA>  
-• **Startups de IA no Brasil:** X empresas — Fonte: [nome] - <URL COMPLETA>  
-• **Principais tendências de busca em IA:** [lista curta] — Fonte: [nome] - <URL COMPLETA>  
-• **Regulamentação e marcos legais:** [Resumo breve] — Fonte: [nome] - <URL COMPLETA>  
+• **Investimentos globais em IA (últimos 30 dias):** US$ X,XX bi 
+— Fonte: [nome] - <URL COMPLETA>  
+
+• **Startups de IA no Brasil:** X empresas 
+— Fonte: [nome] - <URL COMPLETA>  
+
+• **Principais tendências de busca em IA:** [lista curta] 
+— Fonte: [nome] - <URL COMPLETA>  
+
+• **Regulamentação e marcos legais:** [Resumo breve] 
+— Fonte: [nome] - <URL COMPLETA>  
 
 ═══════════════════════════════════════════
+
 🤝  ATÉ A PRÓXIMA!  
+
 👥 Newsletter Tech & AI — NEWSTECH  
 
 ────────────────────────────────────────────────────────────────────
@@ -151,3 +197,4 @@ PARÂMETROS:
 - Estilo: analítico, direto, técnico-acessível  
 - Público-alvo: executivos, empreendedores e profissionais de tecnologia  
 """
+
