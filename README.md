@@ -14,7 +14,7 @@ O GitHub Actions usa **Secrets** para armazenar informações sensíveis (como c
 | `OPENAI_API_KEY` | Sua chave de API para o modelo GPT. | `sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx` |
 | `TAVILY_API_KEY` | Sua chave de API para a ferramenta de busca Tavily. | `tvly-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx` |
 | `EMAIL_ADDRESS` | O endereço de e-mail que enviará a newsletter (remetente). | `seu.email@gmail.com` |
-| `EMAIL_PASSWORD` | A senha de aplicativo (App Password) do seu e-mail. **Importante:** Se você usa Gmail, você deve gerar uma [Senha de Aplicativo] em vez da sua senha normal. | `abcd efgh ijkl mnop` |
+| `EMAIL_PASSWORD` | A senha de aplicativo (App Password) do seu e-mail. **Importante:** Se você usa Gmail, você deve gerar uma [Senha de Aplicativo] em vez da sua senha normal. | `xxxxxxxxxxxxxx` |
 | `DESTINATARIOS` | A lista de e-mails dos destinatários, separados por vírgula. | `destinatario1@email.com, destinatario2@email.com` |
 
 > **Nota sobre Senha de Aplicativo (Gmail):** Para usar o Gmail com `smtplib`, você precisa ativar a verificação em duas etapas e, em seguida, gerar uma "Senha de Aplicativo" específica para este projeto. A senha de aplicativo é usada no lugar da sua senha normal.
